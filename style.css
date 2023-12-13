@@ -131,7 +131,7 @@ kbd {
 	background-color: #ddd;
 	padding: 4px 6px;
 	border-radius: 2px;
-	color: ;
+	color: #a26f71 ;
 }
 
 address {
@@ -780,7 +780,7 @@ button:focus {
 /*--------------------*/
 
 #mu-testimonials {
-	background-image: url("assets/images/testimonials-bg.jpeg");
+	background-image: url("assets/images/recommendation.jpg");
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
